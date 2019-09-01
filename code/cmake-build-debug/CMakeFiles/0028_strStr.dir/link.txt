@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/0028_strStr.dir/0028_strStr.c.o  -o 0028_strStr 

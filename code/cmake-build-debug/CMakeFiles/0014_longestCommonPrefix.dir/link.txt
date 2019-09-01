@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/0014_longestCommonPrefix.dir/0014_longestCommonPrefix.c.o  -o 0014_longestCommonPrefix 

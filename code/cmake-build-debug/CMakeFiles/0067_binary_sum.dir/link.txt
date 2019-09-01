@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/0067_binary_sum.dir/0067_binary_sum.c.o  -o 0067_binary_sum 
